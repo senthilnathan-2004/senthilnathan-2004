@@ -2,360 +2,275 @@
 
 # 👋 Hi, I'm Senthilnathan R
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Full+Stack+MERN+Developer;Next.js+Developer;React+Developer;UI%2FUX+Enthusiast;Building+Premium+Web+Applications;Open+to+Freelance+Projects" />
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Welcome%20to%20My%20GitHub&fontSize=42&fontColor=ffffff&animation=fadeIn"/>
+Full Stack MERN Developer • Next.js • React • TypeScript
 
 </div>
 
----
+<table width="100%">
+<tr>
+<td>
 
-# 🚀 About Me
+## 🚀 About Me
 
-💻 Full Stack MERN Developer
+I build modern, scalable, and high-performance web applications using React, Next.js, Node.js, TypeScript, and MongoDB.
 
-I build modern, scalable and high-performance web applications using React, Next.js, Node.js and MongoDB.
+I focus on creating premium user experiences with clean architecture, responsive design, and production-ready code.
 
-I enjoy designing premium user interfaces with smooth animations while maintaining clean architecture and production-ready code.
+</td>
+</tr>
+</table>
 
-My goal is to build software that looks beautiful, performs fast and solves real business problems.
+<br>
 
----
+<table width="100%">
+<tr>
+<td>
 
-# 💼 What I Build
+## 💼 What I Build
 
-✨ Premium Business Websites
+- 🏥 Healthcare Platforms
+- 🏢 Admin Dashboards
+- 🏡 Real Estate Websites
+- 🚗 Automotive Websites
+- 🏨 Resort & Hotel Websites
+- 💄 Salon Websites
+- 🛒 E-Commerce Platforms
+- ⚙️ SaaS Applications
+- 🌐 Business Websites
+- 📱 Responsive Landing Pages
 
-🏥 Healthcare Platforms
+</td>
+</tr>
+</table>
 
-🏢 Admin Dashboards
+<br>
 
-🏡 Real Estate Platforms
+<table width="100%">
+<tr>
+<td>
 
-🏨 Hotel & Resort Websites
+## ⚡ Tech Stack
 
-🚗 Automotive Showrooms
+### Frontend
 
-💄 Salon Websites
+<p align="center">
 
-🏋️ Fitness Websites
-
-🛒 E-Commerce Platforms
-
-⚙️ Custom Full Stack Applications
-
----
-
-# ⚡ Tech Stack
-
-## Frontend
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,tailwind,html,css,redux,vite"/>
-
-</p>
-
----
-
-## Backend
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase"/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,tailwind,html,css"/>
 
 </p>
 
----
+### Backend
 
-## Tools
+<p align="center">
 
-<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql"/>
+
+</p>
+
+### Tools
+
+<p align="center">
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,postman,vercel"/>
 
 </p>
 
----
+</td>
+</tr>
+</table>
 
-# 🌟 Featured Projects
+<br>
 
-## 🏥 Hospital Management System
+<table width="100%">
+<tr>
+<td>
 
-Modern healthcare platform
+## 🌟 Featured Projects
 
-✔ Appointment Management
+| Project | Description |
+|---------|-------------|
+| 🏥 Hospital Management System | Complete HMS with Patients, Pharmacy, Billing, Laboratory, Doctors, Reports & Admin Dashboard |
+| 🏥 Clinic Management Platform | CMS, Appointments, Reviews, Dashboard & Authentication |
+| 🏡 Real Estate Platform | Property Listings, Lead Generation & SEO |
+| 🚗 Hypercar Showroom | Three.js Premium Automotive Experience |
+| 🏨 Resort Booking Platform | Luxury Booking Website with Admin Dashboard |
+| 🧩 ComponentHub | Enterprise Component Library Platform |
 
-✔ Patient Records
+</td>
+</tr>
+</table>
 
-✔ Billing
+<br>
 
-✔ Admin Dashboard
+<table width="100%">
+<tr>
+<td align="center">
 
-✔ Doctor Portal
+## 📊 GitHub Statistics
 
-✔ Laboratory Module
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=senthilnathan-2004&show_icons=true&theme=transparent&hide_border=true"/>
 
-✔ Pharmacy
+<br>
 
-✔ Reports
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=senthilnathan-2004&theme=transparent&hide_border=true"/>
 
-Tech
+</td>
+</tr>
+</table>
 
-Next.js
+<br>
 
-React
+<table width="100%">
+<tr>
+<td align="center">
 
-MongoDB
+## 🏆 GitHub Activity
 
-TypeScript
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=senthilnathan-2004&theme=github-compact"/>
 
-Tailwind CSS
+</td>
+</tr>
+</table>
 
----
+<br>
 
-## 🏥 Clinic Management Platform
+<table width="100%">
+<tr>
+<td>
 
-Production Ready
+## 🎯 Current Focus
 
-✔ CMS
+- Enterprise Web Applications
+- Next.js 15
+- React 19
+- TypeScript
+- AI Powered Applications
+- Performance Optimization
+- Scalable Architecture
 
-✔ Appointment Booking
+</td>
+</tr>
+</table>
 
-✔ Doctor Management
+<br>
 
-✔ ImageKit
+<table width="100%">
+<tr>
+<td>
 
-✔ Dashboard
+## 💡 Services
 
-✔ Reviews
+- Full Stack Development
+- MERN Stack Applications
+- Business Websites
+- Healthcare Software
+- Admin Dashboards
+- API Development
+- Website Redesign
+- SEO Optimization
+- Responsive UI Development
+- Performance Optimization
 
-✔ Blog
+</td>
+</tr>
+</table>
 
-✔ Authentication
+<br>
 
----
+<table width="100%">
+<tr>
+<td>
 
-## 🏡 Premium Real Estate Website
+## ⭐ Why Work With Me?
 
-Luxury property showcase
+✔ Clean Architecture
 
-✔ Property Listings
+✔ Enterprise Code Quality
 
-✔ Inquiry Forms
+✔ Mobile Responsive
 
-✔ WhatsApp Integration
+✔ SEO Optimized
 
-✔ SEO
+✔ Fast Loading
 
-✔ Framer Motion
+✔ Modern UI/UX
 
----
+✔ Secure Authentication
 
-## 🚗 Hypercar Showroom
+✔ Long-Term Support
 
-Luxury automotive experience
+</td>
+</tr>
+</table>
 
-✔ Three.js
+<br>
 
-✔ GSAP
-
-✔ React Three Fiber
-
-✔ Animations
-
-✔ Performance
-
----
-
-## 🏨 Resort Booking Platform
-
-✔ Booking System
-
-✔ Gallery
-
-✔ Admin Dashboard
-
-✔ Email Automation
-
-✔ CMS
-
----
-
-## 🧩 ComponentHub
-
-Reusable Component Platform
-
-✔ Dynamic Components
-
-✔ Code Export
-
-✔ Authentication
-
-✔ API
-
-✔ Modular Architecture
-
----
-
-# 📈 GitHub Statistics
-
-<p align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=senthilnathan-2004&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=senthilnathan-2004&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=senthilnathan-2004&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 🐍 Contribution Graph
-
-<p align="center">
-
-<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophy
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=senthilnathan-2004&theme=algolia&no-frame=true&column=4"/>
-
-</p>
-
----
-
-# 📊 Activity Graph
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=senthilnathan-2004&theme=tokyo-night"/>
-
----
-
-# 🎯 Current Focus
-
-✅ Enterprise Applications
-
-✅ Next.js 15
-
-✅ React 19
-
-✅ TypeScript
-
-✅ Performance Optimization
-
-✅ Modern UI/UX
-
-✅ Scalable Backend Systems
-
----
-
-# 💡 Services
-
-✔ Full Stack Web Development
-
-✔ Business Websites
-
-✔ Healthcare Software
-
-✔ Admin Dashboards
-
-✔ Landing Pages
-
-✔ API Development
-
-✔ Responsive UI
-
-✔ Performance Optimization
-
-✔ Website Redesign
-
-✔ SEO Friendly Websites
-
----
-
-# ⭐ Why Work With Me?
-
-🚀 Clean Architecture
-
-⚡ Fast Performance
-
-📱 Fully Responsive
-
-🎨 Premium UI Design
-
-🔒 Secure Authentication
-
-📈 SEO Optimized
-
-🧩 Reusable Components
-
-🛠 Long-Term Support
-
----
+<table width="100%">
+<tr>
+<td align="center">
 
 # 💼 Hire Me
 
-### Fiverr
+### Available for Freelance Projects
 
-## ⭐ Custom Websites
+### ⭐ MERN Stack
 
-## ⭐ MERN Stack Development
+### ⭐ Next.js
 
-## ⭐ Next.js Development
+### ⭐ React.js
 
-## ⭐ React Development
+### ⭐ Business Websites
 
-## ⭐ Admin Dashboards
+### ⭐ Healthcare Software
 
-## ⭐ Business Websites
+### ⭐ Admin Dashboards
 
-### 👉 https://www.fiverr.com/senthilragu
+<a href="https://www.fiverr.com/senthilragu">
 
----
+<img src="https://img.shields.io/badge/Hire%20Me%20on-Fiverr-black?style=for-the-badge&logo=fiverr"/>
 
-# 📫 Connect With Me
+</a>
 
-<p align="center">
+</td>
+</tr>
+</table>
+
+<br>
+
+<table width="100%">
+<tr>
+<td align="center">
+
+## 📫 Connect With Me
 
 <a href="mailto:senthilragunathan2004@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-black?style=for-the-badge&logo=gmail"/>
 </a>
 
 <a href="https://github.com/senthilnathan-2004">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
 </a>
 
 <a href="https://linkedin.com/in/senthilnathan-r">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+<img src="https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin"/>
 </a>
 
 <a href="https://www.fiverr.com/senthilragu">
-<img src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white"/>
+<img src="https://img.shields.io/badge/Fiverr-black?style=for-the-badge&logo=fiverr"/>
 </a>
 
-</p>
+</td>
+</tr>
+</table>
 
----
+<br>
 
 <div align="center">
 
-![](https://komarev.com/ghpvc/?username=senthilnathan-2004&color=blueviolet&style=for-the-badge)
+![](https://komarev.com/ghpvc/?username=senthilnathan-2004&style=for-the-badge&color=black)
 
-### ⭐ Thanks for visiting my GitHub Profile ⭐
+### ⭐ Thanks for visiting my GitHub Profile
 
-"Building premium web experiences with modern technologies."
+**Building premium web experiences with modern technologies.**
 
 </div>
