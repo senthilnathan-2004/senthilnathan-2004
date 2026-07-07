@@ -1,225 +1,286 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=220&section=header&text=SENTHILNATHAN%20R&fontSize=45&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20MERN%20Developer&descAlignY=58&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=230&section=header&text=SENTHILNATHAN%20R&fontSize=48&fontColor=FFFFFF&fontFamily=Anton&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20MERN%20Developer&descAlignY=58&descSize=22&descFontFamily=Anton" width="100%"/>
 
 <br/>
 
-<a href="https://senthilnathan-2004.github.io/sen_pro">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=3000&pause=800&color=000000&background=FFFFFF00&center=true&vCenter=true&width=650&lines=Building+Scalable+Web+Applications;React.js+%7C+Next.js+%7C+Node.js+%7C+MongoDB;Turning+Ideas+Into+Premium+Digital+Products;Open+for+Freelance+%26+Full-Time+Opportunities" />
-</a>
+<img src="https://readme-typing-svg.demolab.com/?font=Anton&size=26&duration=3000&pause=800&color=FFFFFF&background=000000&center=true&vCenter=true&width=750&height=60&lines=BUILDING+SCALABLE+WEB+APPLICATIONS;REACT+%7C+NEXT.JS+%7C+NODE.JS+%7C+MONGODB;PREMIUM+DIGITAL+PRODUCTS+THAT+CONVERT;OPEN+FOR+FREELANCE+%26+FULL-TIME+WORK" />
 
 <br/><br/>
 
-<a href="https://senthilnathan-2004.github.io/sen_pro"><img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/senthilnathan–r"><img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:senthilragunathan2004@gmail.com"><img src="https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://www.fiverr.com/senthilragu"><img src="https://img.shields.io/badge/FIVERR-000000?style=for-the-badge&logo=fiverr&logoColor=white" /></a>
+<a href="https://senthilnathan-2004.github.io/sen_pro"><img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&labelColor=000000&color=000000"/></a>&nbsp;
+<a href="https://www.linkedin.com/in/senthilnathan–r"><img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&labelColor=000000&color=000000"/></a>&nbsp;
+<a href="mailto:senthilragunathan2004@gmail.com"><img src="https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&labelColor=000000&color=000000"/></a>&nbsp;
+<a href="https://www.fiverr.com/senthilragu"><img src="https://img.shields.io/badge/FIVERR-000000?style=for-the-badge&labelColor=000000&color=000000"/></a>
 
 </div>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=3&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=4&section=header" width="100%"/>
 
-## 🖤 About Me
-
-<table width="100%">
+<table width="100%" cellpadding="25" cellspacing="0">
 <tr>
 <td width="100%">
 
-I'm a **Full Stack MERN Developer** who designs and ships **premium, production-ready web applications** — the kind of clean, cinematic, high-conversion products that businesses and brands actually want to launch with.
+<h2 align="center">ABOUT ME</h2>
 
-- 🏗️ **16+ live projects** shipped across real-estate, healthcare, hospitality, e-commerce, and SaaS niches
-- 🎯 Specialized in **React.js, Next.js, TypeScript, Node.js, Express.js & MongoDB**
-- 🎨 Obsessed with **premium UI/UX** — smooth Framer Motion / GSAP animations, cinematic hero sections, and pixel-perfect responsive layouts
-- ⚡ Focused on **performance, SEO, and scalable architecture** — not just "looks good," but built right
-- 🤝 Currently available for **freelance projects** — see my Fiverr below
-- 🎓 B.E. Computer Science, Anand Institute of Higher Technology, Chennai — CGPA **8.2/10**
+<p align="center" style="font-size:18px; line-height:2;">
+
+I'm a <b>Full Stack MERN Developer</b> who designs and ships <b>premium, production-ready web applications</b> — the kind of clean, cinematic, high-conversion products that businesses and brands actually want to launch with.
+
+<br/><br/>
+
+🔹 <b>16+ live projects</b> shipped across real-estate, healthcare, hospitality, e-commerce, and SaaS niches
+<br/><br/>
+🔹 Specialized in <b>React.js, Next.js, TypeScript, Node.js, Express.js and MongoDB</b>
+<br/><br/>
+🔹 Obsessed with <b>premium UI/UX</b> — smooth animations, cinematic hero sections, and pixel-perfect responsive layouts
+<br/><br/>
+🔹 Focused on <b>performance, SEO and scalable architecture</b> — not just "looks good," but built right
+<br/><br/>
+🔹 Currently available for <b>freelance projects</b> — check my Fiverr below
+<br/><br/>
+🔹 B.E. Computer Science, Anand Institute of Higher Technology, Chennai — CGPA <b>8.2 / 10</b>
+
+</p>
 
 </td>
 </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=3&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=4&section=header" width="100%"/>
 
-## 🛠️ Tech Stack
-
-<div align="center">
-
-**Languages**
-<br/>
-<img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white"/>
-<img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=white"/>
-
-**Frontend**
-<br/>
-<img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=white"/>
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/Redux-000000?style=for-the-badge&logo=redux&logoColor=white"/>
-<img src="https://img.shields.io/badge/Tailwind_CSS-000000?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
-<img src="https://img.shields.io/badge/Framer_Motion-000000?style=for-the-badge&logo=framer&logoColor=white"/>
-<img src="https://img.shields.io/badge/GSAP-000000?style=for-the-badge&logo=greensock&logoColor=white"/>
-
-**Backend & Database**
-<br/>
-<img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
-<img src="https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
-
-**Tools & Deployment**
-<br/>
-<img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/Postman-000000?style=for-the-badge&logo=postman&logoColor=white"/>
-<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=3&section=header" width="100%"/>
-
-## 🚀 Featured Projects
-
-<table width="100%">
+<table width="100%" cellpadding="25" cellspacing="0">
 <tr>
-<td width="50%" valign="top">
+<td width="100%" align="center">
 
-### 🏎️ Premium Hypercar Showroom
-Cinematic automotive showroom built with **Next.js, Three.js & React Three Fiber** — immersive hero, 3D vehicle showcase, and performance stats.
+<h2>TECH STACK</h2>
 
-**Stack:** React.js · Next.js · TypeScript · Three.js · GSAP
+<br/>
 
-🔗 [Live Demo](https://car-showroom-chi.vercel.app/)
+<b>LANGUAGES</b>
+<br/><br/>
+<img src="https://img.shields.io/badge/JAVASCRIPT-000000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/TYPESCRIPT-000000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/PYTHON-000000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge"/>
 
-</td>
-<td width="50%" valign="top">
+<br/><br/><br/>
 
-### 🏥 Clinic Admin & Appointment System
-Full healthcare admin platform for a real clinic client — appointment workflows, doctor/service management, media & review moderation.
+<b>FRONTEND</b>
+<br/><br/>
+<img src="https://img.shields.io/badge/REACT.JS-000000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/NEXT.JS-000000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/REDUX-000000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/TAILWIND_CSS-000000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/FRAMER_MOTION-000000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/GSAP-000000?style=for-the-badge"/>
 
-**Stack:** Next.js · MongoDB · Cloudinary · REST APIs
+<br/><br/><br/>
 
-🔗 [Live Demo](https://sugam-clinic.vercel.app/)
+<b>BACKEND & DATABASE</b>
+<br/><br/>
+<img src="https://img.shields.io/badge/NODE.JS-000000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/EXPRESS.JS-000000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/MONGODB-000000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/MYSQL-000000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/JWT_AUTH-000000?style=for-the-badge"/>
+
+<br/><br/><br/>
+
+<b>TOOLS & DEPLOYMENT</b>
+<br/><br/>
+<img src="https://img.shields.io/badge/GIT-000000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/DOCKER-000000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/POSTMAN-000000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/VERCEL-000000?style=for-the-badge"/>
 
 </td>
 </tr>
+</table>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=4&section=header" width="100%"/>
+
+<table width="100%" cellpadding="25" cellspacing="0">
+<tr>
+<td width="100%" align="center">
+
+<h2>FEATURED PROJECTS</h2>
+
+</td>
+</tr>
+
 <tr>
 <td width="50%" valign="top">
 
-### 🏙️ Premium Real Estate Platform
+<h3 align="center">PREMIUM HYPERCAR SHOWROOM</h3>
+<p align="center" style="line-height:1.8;">
+Cinematic automotive showroom built with <b>Next.js, Three.js and React Three Fiber</b> — immersive hero, 3D vehicle showcase, and performance stats.
+<br/><br/>
+<b>Stack:</b> React.js · Next.js · TypeScript · Three.js · GSAP
+<br/><br/>
+<a href="https://car-showroom-chi.vercel.app/"><b>LIVE DEMO →</b></a>
+</p>
+
+</td>
+<td width="50%" valign="top">
+
+<h3 align="center">CLINIC ADMIN & APPOINTMENT SYSTEM</h3>
+<p align="center" style="line-height:1.8;">
+Full healthcare admin platform for a real clinic client — appointment workflows, doctor and service management, media and review moderation.
+<br/><br/>
+<b>Stack:</b> Next.js · MongoDB · Cloudinary · REST APIs
+<br/><br/>
+<a href="https://sugam-clinic.vercel.app/"><b>LIVE DEMO →</b></a>
+</p>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+<h3 align="center">PREMIUM REAL ESTATE PLATFORM</h3>
+<p align="center" style="line-height:1.8;">
 High-conversion luxury property platform with lead capture, WhatsApp integration, and immersive gallery sections.
-
-**Stack:** Next.js · TypeScript · Framer Motion · MongoDB
-
-🔗 [Live Demo](https://realestate-ochre-zeta.vercel.app/)
+<br/><br/>
+<b>Stack:</b> Next.js · TypeScript · Framer Motion · MongoDB
+<br/><br/>
+<a href="https://realestate-ochre-zeta.vercel.app/"><b>LIVE DEMO →</b></a>
+</p>
 
 </td>
 <td width="50%" valign="top">
 
-### 🏨 Premium Resort & Booking UI
+<h3 align="center">PREMIUM RESORT & BOOKING UI</h3>
+<p align="center" style="line-height:1.8;">
 Luxury hospitality website with a full serverless booking backend, secure admin dashboard, and automated email handling.
-
-**Stack:** React.js · Next.js · MongoDB · ImageKit
-
-🔗 [Live Demo](https://resort-seven-tau.vercel.app/)
+<br/><br/>
+<b>Stack:</b> React.js · Next.js · MongoDB · ImageKit
+<br/><br/>
+<a href="https://resort-seven-tau.vercel.app/"><b>LIVE DEMO →</b></a>
+</p>
 
 </td>
 </tr>
+
 <tr>
 <td width="50%" valign="top">
 
-### 🧩 ComponentHub — Component Suite
-Centralized platform for building, organizing, and reusing UI components at scale, with RBAC and modular architecture.
-
-**Stack:** React.js · Node.js · Express.js · MongoDB
-
-🔗 [GitHub Repo](https://github.com/senthilnathan-2004/ComponentHub)
+<h3 align="center">COMPONENTHUB — COMPONENT SUITE</h3>
+<p align="center" style="line-height:1.8;">
+Centralized platform for building, organizing, and reusing UI components at scale, with role-based access and modular architecture.
+<br/><br/>
+<b>Stack:</b> React.js · Node.js · Express.js · MongoDB
+<br/><br/>
+<a href="https://github.com/senthilnathan-2004/ComponentHub"><b>VIEW REPO →</b></a>
+</p>
 
 </td>
 <td width="50%" valign="top">
 
-### 🎗️ Rotaract Club Management System
-Full ERP-style platform for NGO/club operations — 2FA security, financial reporting, and dynamic CMS.
+<h3 align="center">ROTARACT CLUB MANAGEMENT SYSTEM</h3>
+<p align="center" style="line-height:1.8;">
+Full ERP-style platform for NGO and club operations — two-factor security, financial reporting, and a dynamic CMS.
+<br/><br/>
+<b>Stack:</b> React.js · Node.js · MongoDB · JWT & 2FA
+<br/><br/>
+<a href="https://rcfrontend-b91s.vercel.app/"><b>LIVE DEMO →</b></a>
+</p>
 
-**Stack:** React.js · Node.js · MongoDB · JWT & 2FA
+</td>
+</tr>
 
-🔗 [Live Demo](https://rcfrontend-b91s.vercel.app/)
+<tr>
+<td colspan="2" align="center">
+
+<br/>
+<b>+ 10 more production-grade projects</b> — clinic platforms, salons, gyms, hostels, e-commerce and more, all on my
+<a href="https://senthilnathan-2004.github.io/sen_pro"><b>Portfolio →</b></a>
 
 </td>
 </tr>
 </table>
 
-<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=4&section=header" width="100%"/>
 
-**+ 10 more production-grade projects** — clinic platforms, salons, gyms, hostels, e-commerce & more, all on my [Portfolio →](https://senthilnathan-2004.github.io/sen_pro)
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=3&section=header" width="100%"/>
-
-## 💼 Hire Me on Fiverr
-
-<div align="center">
-
-<table width="100%">
+<table width="100%" cellpadding="25" cellspacing="0">
 <tr>
-<td align="center" width="100%">
+<td width="100%" align="center">
 
-### I build premium websites & full stack apps — on time, on budget, done right.
+<h2>HIRE ME ON FIVERR</h2>
 
+<br/>
+
+<p style="font-size:19px; line-height:1.9;">
+I build premium websites and full stack apps — on time, on budget, done right.
+<br/><br/>
 Landing pages · Admin dashboards · MERN full stack apps · SaaS platforms · Business websites
+</p>
+
+<br/>
 
 <a href="https://www.fiverr.com/senthilragu">
-<img src="https://img.shields.io/badge/HIRE_ME_ON_FIVERR-000000?style=for-the-badge&logo=fiverr&logoColor=white&labelColor=000000" height="45"/>
+<img src="https://img.shields.io/badge/HIRE_ME_ON_FIVERR-000000?style=for-the-badge&labelColor=000000&color=000000" height="50"/>
 </a>
 
-**👉 [fiverr.com/senthilragu](https://www.fiverr.com/senthilragu)**
+<br/><br/>
+
+<b>fiverr.com/senthilragu</b>
 
 </td>
 </tr>
 </table>
 
-</div>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=4&section=header" width="100%"/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=3&section=header" width="100%"/>
+<table width="100%" cellpadding="25" cellspacing="0">
+<tr>
+<td width="100%" align="center">
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=senthilnathan-2004&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF" width="48%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=senthilnathan-2004&theme=dark&hide_border=true&background=000000&stroke=FFFFFF&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF" width="48%"/>
+<h2>GITHUB STATS</h2>
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=senthilnathan-2004&layout=compact&theme=dark&hide_border=true&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=senthilnathan-2004&show_icons=true&hide_border=true&bg_color=000000&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&hide_rank=false" width="47%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=senthilnathan-2004&hide_border=true&background=000000&stroke=FFFFFF&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF" width="47%"/>
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=senthilnathan-2004&theme=github-compact&bg_color=000000&color=FFFFFF&line=FFFFFF&point=FFFFFF&hide_border=true" width="98%"/>
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=3&section=header" width="100%"/>
-
-<div align="center">
-
-### 📫 Let's Connect
-
-<a href="https://www.linkedin.com/in/senthilnathan–r"><img src="https://img.shields.io/badge/-LinkedIn-000000?style=flat-square&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:senthilragunathan2004@gmail.com"><img src="https://img.shields.io/badge/-Gmail-000000?style=flat-square&logo=Gmail&logoColor=white"/></a>
-<a href="https://senthilnathan-2004.github.io/sen_pro"><img src="https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=vercel&logoColor=white"/></a>
-<a href="https://www.fiverr.com/senthilragu"><img src="https://img.shields.io/badge/-Fiverr-000000?style=flat-square&logo=fiverr&logoColor=white"/></a>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=senthilnathan-2004&layout=compact&hide_border=true&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF" width="47%"/>
 
 <br/><br/>
 
-**"Clean code, premium design, and products people actually want to use."**
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=senthilnathan-2004&bg_color=000000&color=FFFFFF&line=FFFFFF&point=FFFFFF&hide_border=true&title_color=FFFFFF" width="95%"/>
 
-</div>
+</td>
+</tr>
+</table>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=4&section=header" width="100%"/>
+
+<table width="100%" cellpadding="25" cellspacing="0">
+<tr>
+<td width="100%" align="center">
+
+<h2>LET'S CONNECT</h2>
+
+<br/>
+
+<a href="https://www.linkedin.com/in/senthilnathan–r"><img src="https://img.shields.io/badge/LINKEDIN-000000?style=flat-square&labelColor=000000&color=000000"/></a>&nbsp;
+<a href="mailto:senthilragunathan2004@gmail.com"><img src="https://img.shields.io/badge/GMAIL-000000?style=flat-square&labelColor=000000&color=000000"/></a>&nbsp;
+<a href="https://senthilnathan-2004.github.io/sen_pro"><img src="https://img.shields.io/badge/PORTFOLIO-000000?style=flat-square&labelColor=000000&color=000000"/></a>&nbsp;
+<a href="https://www.fiverr.com/senthilragu"><img src="https://img.shields.io/badge/FIVERR-000000?style=flat-square&labelColor=000000&color=000000"/></a>
+
+<br/><br/>
+
+<p style="font-size:18px;"><b>"Clean code, premium design, and products people actually want to use."</b></p>
+
+</td>
+</tr>
+</table>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=130&section=footer" width="100%"/>
