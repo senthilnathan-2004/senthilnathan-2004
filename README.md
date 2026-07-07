@@ -14,33 +14,48 @@
 <a href="mailto:senthilragunathan2004@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="tel:+916374160496"><img src="https://img.shields.io/badge/Call-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
 
-</div>
+<br/><br/>
 
-<br/>
+## 🚀 About Me
 
-<table width="100%">
+<table align="center" width="900">
 <tr>
-<td width="100%" align="center">
+<td align="center" width="33.3%" valign="top">
 
-### 🚀 About Me
+🎓<br/>**B.E Computer Science**<br/>Anand Institute of Higher Technology, Chennai — CGPA 8.2/10
+
+</td>
+<td align="center" width="33.3%" valign="top">
+
+💼<br/>**Full Stack MERN Dev**<br/>Scalable web apps, REST APIs & reusable UI systems
+
+</td>
+<td align="center" width="33.3%" valign="top">
+
+🛠️<br/>**Premium Web Craft**<br/>Animated, high-conversion sites for real businesses
 
 </td>
 </tr>
 <tr>
-<td width="100%">
+<td align="center" width="33.3%" valign="top">
 
-```txt
-🎓  B.E Computer Science & Engineering — Anand Institute of Higher Technology, Chennai (CGPA 8.2/10)
-💼  Full Stack MERN Developer — building scalable web apps, REST APIs & reusable UI systems
-🛠️  Specialized in premium, animated, high-conversion websites for real businesses
-🌱  Currently exploring advanced system design, CI/CD pipelines & cloud architecture
-💰  Available for Freelance Projects → https://www.fiverr.com/senthilragu
-📫  Reach me: senthilragunathan2004@gmail.com  |  +91-6374160496
-```
+🌱<br/>**Always Learning**<br/>System design, CI/CD pipelines & cloud architecture
+
+</td>
+<td align="center" width="33.3%" valign="top">
+
+💰<br/>**Open for Freelance**<br/><a href="https://www.fiverr.com/senthilragu">fiverr.com/senthilragu</a>
+
+</td>
+<td align="center" width="33.3%" valign="top">
+
+📫<br/>**Let's Connect**<br/>senthilragunathan2004@gmail.com
 
 </td>
 </tr>
 </table>
+
+</div>
 
 <br/>
 
@@ -48,14 +63,12 @@
 
 ## 🧰 Tech Stack
 
-</div>
-
-<table width="100%">
+<table align="center" width="900">
 <tr>
-<td width="100%" align="center">
+<td align="center" width="900">
 
 **Languages**
-<br/>
+<br/><br/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
@@ -66,10 +79,10 @@
 </td>
 </tr>
 <tr>
-<td width="100%" align="center">
+<td align="center" width="900">
 
 **Frontend**
-<br/>
+<br/><br/>
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
 <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white"/>
@@ -80,10 +93,10 @@
 </td>
 </tr>
 <tr>
-<td width="100%" align="center">
+<td align="center" width="900">
 
 **Backend & Database**
-<br/>
+<br/><br/>
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
 <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
@@ -94,10 +107,10 @@
 </td>
 </tr>
 <tr>
-<td width="100%" align="center">
+<td align="center" width="900">
 
 **Tools & Deployment**
-<br/>
+<br/><br/>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
@@ -109,6 +122,8 @@
 </tr>
 </table>
 
+</div>
+
 <br/>
 
 <div align="center">
@@ -116,7 +131,7 @@
 ## 💼 Hire Me on Fiverr
 
 <a href="https://www.fiverr.com/senthilragu" target="_blank">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1DBF73,100:00b96b&height=90&width=800&section=header&text=Let's%20Build%20Your%20Premium%20Website%20%E2%80%94%20Hire%20Me%20on%20Fiverr&fontSize=22&fontColor=ffffff&fontAlignY=55" />
+<img width="900" src="https://capsule-render.vercel.app/api?type=rect&color=0:1DBF73,100:00b96b&height=90&width=900&section=header&text=Let's%20Build%20Your%20Premium%20Website%20%E2%80%94%20Hire%20Me%20on%20Fiverr&fontSize=22&fontColor=ffffff&fontAlignY=55" />
 </a>
 
 **👉 [www.fiverr.com/senthilragu](https://www.fiverr.com/senthilragu) — MERN Stack Web Apps · React/Next.js Websites · Admin Dashboards · API Integrations**
@@ -131,9 +146,7 @@
 
 *Every project below is live, deployed, and production-ready — click any demo link to explore.*
 
-</div>
-
-<table width="100%">
+<table align="center" width="900">
 <tr>
 <td width="50%" valign="top">
 
@@ -248,38 +261,59 @@ Personal branding site with interactive project showcase & performance-optimized
 </tr>
 </table>
 
+</div>
+
 <br/>
 
 <div align="center">
 
 ## 📊 GitHub Analytics
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=senthilnathan-2004&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=senthilnathan-2004&layout=compact&theme=tokyonight&hide_border=true" />
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=senthilnathan-2004&theme=tokyonight&hide_border=true" />
-
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=senthilnathan-2004&theme=tokyonight&no-frame=true&row=1&column=7" />
+<table align="center" width="900">
+<tr>
+<td align="center" width="50%">
+<img width="100%" src="https://github-readme-stats.vercel.app/api?username=senthilnathan-2004&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+</td>
+<td align="center" width="50%">
+<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=senthilnathan-2004&layout=compact&theme=tokyonight&hide_border=true" />
+</td>
+</tr>
+<tr>
+<td align="center" colspan="2">
+<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=senthilnathan-2004&theme=tokyonight&hide_border=true" />
+</td>
+</tr>
+<tr>
+<td align="center" colspan="2">
+<img width="100%" src="https://github-profile-trophy.vercel.app/?username=senthilnathan-2004&theme=tokyonight&no-frame=true&row=1&column=7" />
+</td>
+</tr>
+</table>
 
 </div>
 
 <br/>
 
-<table width="100%">
-<tr>
-<td width="100%" align="center">
+<div align="center">
 
 ## 🏆 Certifications
 
-`MongoDB for Developers — MongoDB University`  ·  `Idea Presentation — College Innovation Event`
+<table align="center" width="900">
+<tr>
+<td align="center" width="50%" valign="top">
+
+🏅<br/>**MongoDB for Developers**<br/>MongoDB University
+
+</td>
+<td align="center" width="50%" valign="top">
+
+💡<br/>**Idea Presentation**<br/>College Innovation Event
 
 </td>
 </tr>
 </table>
+
+</div>
 
 <br/>
 
