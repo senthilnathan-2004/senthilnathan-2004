@@ -271,20 +271,17 @@ Personal branding site with interactive project showcase & performance-optimized
 
 <table align="center" width="900">
 <tr>
-<td align="center" width="50%">
+<td align="center" width="900">
 <img width="100%" src="https://github-readme-stats.vercel.app/api?username=senthilnathan-2004&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-</td>
-<td align="center" width="50%">
-<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=senthilnathan-2004&layout=compact&theme=tokyonight&hide_border=true" />
 </td>
 </tr>
 <tr>
-<td align="center" colspan="2">
+<td align="center" width="900">
 <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=senthilnathan-2004&theme=tokyonight&hide_border=true" />
 </td>
 </tr>
 <tr>
-<td align="center" colspan="2">
+<td align="center" width="900">
 <img width="100%" src="https://github-profile-trophy.vercel.app/?username=senthilnathan-2004&theme=tokyonight&no-frame=true&row=1&column=7" />
 </td>
 </tr>
@@ -300,14 +297,16 @@ Personal branding site with interactive project showcase & performance-optimized
 
 <table align="center" width="900">
 <tr>
-<td align="center" width="50%" valign="top">
+<td align="center" width="900" valign="top">
 
-🏅<br/>**MongoDB for Developers**<br/>MongoDB University
+🏅 &nbsp; **MongoDB for Developers** — MongoDB University
 
 </td>
-<td align="center" width="50%" valign="top">
+</tr>
+<tr>
+<td align="center" width="900" valign="top">
 
-💡<br/>**Idea Presentation**<br/>College Innovation Event
+💡 &nbsp; **Idea Presentation** — College Innovation Event
 
 </td>
 </tr>
