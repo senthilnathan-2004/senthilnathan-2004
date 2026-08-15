@@ -8,7 +8,7 @@
 
 </div>
 
-<br></br>
+
 ## About Me
 
 ```
@@ -23,6 +23,7 @@ const senthilnathan = {
 };
 ```
 
+<br></br>
 ## Tech Stack
 
 <div align="left">
@@ -39,7 +40,7 @@ const senthilnathan = {
 
 </div>
 
-
+<br></br>
 ## Technical Concepts
 
 <div align="left">
@@ -48,7 +49,7 @@ const senthilnathan = {
 
 </div>
 
-
+<br></br>
 ## GitHub Stats
 
 <div align="center">
@@ -57,7 +58,7 @@ const senthilnathan = {
 
 </div>
 
-
+<br></br>
 ## Connect With Me
 
 <div align="center">
