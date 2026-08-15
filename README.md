@@ -32,27 +32,17 @@ const senthilnathan = {
 
 ## 🛠️ Tech Stack
 
-<div align="center">
+<div align="left">
 
-**Languages**
+**Languages** `JavaScript` `TypeScript` `Python` `SQL` `HTML5` `CSS3`
 
-`JavaScript` `TypeScript` `Python` `SQL` `HTML5` `CSS3`
+**Frontend** `React.js` `Redux` `Tailwind CSS` `Responsive Design`
 
-**Frontend**
+**Backend** `Node.js` `Express.js` `REST API` `JWT Auth` `API Integration`
 
-`React.js` `Redux` `Tailwind CSS` `Responsive Design`
+**Databases** `MongoDB` `MySQL`
 
-**Backend**
-
-`Node.js` `Express.js` `REST API` `JWT Auth` `API Integration`
-
-**Databases**
-
-`MongoDB` `MySQL`
-
-**Tools & Practices**
-
-`Git` `GitHub` `Postman` `VS Code` `Docker` `CI/CD`
+**Tools & Practices** `Git` `GitHub` `Postman` `VS Code` `Docker` `CI/CD`
 
 </div>
 
