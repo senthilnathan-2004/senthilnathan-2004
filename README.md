@@ -8,9 +8,6 @@
 
 </div>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/-000000?style=for-the-badge" width="1000" height="3">
-</p>
 
 ## About Me
 
@@ -25,10 +22,6 @@ const senthilnathan = {
     currentlyBuilding: "Scalable RESTful APIs & Component-Based Architectures"
 };
 ```
-
-<p align="center">
-  <img src="https://img.shields.io/badge/-000000?style=for-the-badge" width="1000" height="3">
-</p>
 
 ## Tech Stack
 
@@ -46,10 +39,6 @@ const senthilnathan = {
 
 </div>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/-000000?style=for-the-badge" width="1000" height="3">
-</p>
-
 
 ## Technical Concepts
 
@@ -59,9 +48,6 @@ const senthilnathan = {
 
 </div>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/-000000?style=for-the-badge" width="1000" height="3">
-</p>
 
 ## GitHub Stats
 
@@ -71,9 +57,6 @@ const senthilnathan = {
 
 </div>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/-000000?style=for-the-badge" width="1000" height="3">
-</p>
 
 ## Connect With Me
 
@@ -86,6 +69,3 @@ const senthilnathan = {
 
 </div>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/-000000?style=for-the-badge" width="1000" height="3">
-</p>
