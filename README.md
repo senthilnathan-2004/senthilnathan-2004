@@ -53,14 +53,6 @@ const senthilnathan = {
 
 </div>
 
-<br></br>
-## GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=senthilnathan-2004&theme=dark&hide_border=true&background=00000000&stroke=FFFFFF&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF" alt="GitHub Streak" width="48%" />
-
-</div>
 
 <br></br>
 ## Connect With Me
