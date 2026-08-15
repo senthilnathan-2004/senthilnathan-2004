@@ -93,7 +93,9 @@ const senthilnathan = {
 
 ## 🚀 Featured Projects
 
-<table align="center" width="700">
+<div align="center">
+
+<table width="700">
 <tr>
 <td width="50%" valign="top">
 
@@ -123,6 +125,8 @@ const senthilnathan = {
 </td>
 </tr>
 </table>
+
+</div>
 
 <p align="center">
   <img src="https://img.shields.io/badge/-000000?style=for-the-badge" width="1000" height="3">
