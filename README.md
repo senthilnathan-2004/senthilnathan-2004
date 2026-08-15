@@ -89,9 +89,9 @@ const senthilnathan = {
 
 ## 🚀 Featured Projects
 
-<table align="center">
+<table align="center" width="700">
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🧩 [ComponentHub](https://github.com/senthilnathan-2004/ComponentHub)
 **Reusable UI Component Platform — MERN Stack**
@@ -104,7 +104,7 @@ const senthilnathan = {
 `React` `Tailwind CSS` `Component Architecture`
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🥩 [MERN Meatshop](https://github.com/senthilnathan-2004/meatshop)
 **Online Application — MERN Stack**
