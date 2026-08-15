@@ -25,7 +25,7 @@ const senthilnathan = {
 ```
 
 
-<h6></h6>
+<h4></h4>
 
 ## Tech Stack
 
