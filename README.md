@@ -32,19 +32,19 @@ const senthilnathan = {
 
 ## 🛠️ Tech Stack
 
-<div align="left">
+<div align="center">
 
 **Languages**
 
-`JavaScript (ES6+)` `TypeScript` `Python` `SQL` `HTML5` `CSS3`
+`JavaScript` `TypeScript` `Python` `SQL` `HTML5` `CSS3`
 
 **Frontend**
 
-`React.js` `Redux` `Tailwind CSS` `Responsive Design` `Component-Based Architecture`
+`React.js` `Redux` `Tailwind CSS` `Responsive Design`
 
 **Backend**
 
-`Node.js` `Express.js` `REST API Design` `JWT Authentication` `API Integration`
+`Node.js` `Express.js` `REST API` `JWT Auth` `API Integration`
 
 **Databases**
 
@@ -52,7 +52,7 @@ const senthilnathan = {
 
 **Tools & Practices**
 
-`Git` `GitHub` `Postman` `VS Code` `Docker` `CI/CD` `Agile Development`
+`Git` `GitHub` `Postman` `VS Code` `Docker` `CI/CD`
 
 </div>
 
