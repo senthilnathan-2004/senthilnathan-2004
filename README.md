@@ -8,7 +8,7 @@
 
 </div>
 
-<br></br>
+<h6></h6>
 
 ## About Me
 
