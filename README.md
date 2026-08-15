@@ -32,7 +32,7 @@ const senthilnathan = {
 
 ## 🛠️ Tech Stack
 
-<table align="center" width="700">
+<table align="center" width="1000">
 <tr>
 <th align="left" width="150">Category</th>
 <th align="left">Technologies</th>
