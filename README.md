@@ -54,7 +54,7 @@ const senthilnathan = {
 </div>
 
 
-<div>&nbsp;</div>
+<p>&nbsp;</p>
 
 ## Connect With Me
 
