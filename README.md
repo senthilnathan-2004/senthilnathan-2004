@@ -32,7 +32,9 @@ const senthilnathan = {
 
 ## 🛠️ Tech Stack
 
-<table align="center" width="1000">
+<div align="center">
+
+<table width="700">
 <tr>
 <th align="left" width="150">Category</th>
 <th align="left">Technologies</th>
@@ -82,6 +84,8 @@ const senthilnathan = {
 </td>
 </tr>
 </table>
+
+</div>
 
 <p align="center">
   <img src="https://img.shields.io/badge/-000000?style=for-the-badge" width="1000" height="3">
