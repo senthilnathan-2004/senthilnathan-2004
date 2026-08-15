@@ -24,7 +24,7 @@ const senthilnathan = {
 };
 ```
 
-
+<p>&nbsp;</p>
 
 
 ## Tech Stack
@@ -43,7 +43,7 @@ const senthilnathan = {
 
 </div>
 
-<br></br>
+<p>&nbsp;</p>
 
 ## Technical Concepts
 
