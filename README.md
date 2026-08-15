@@ -8,7 +8,7 @@
 
 </div>
 
-<br></br>
+<br>
 
 ## About Me
 
@@ -25,7 +25,7 @@ const senthilnathan = {
 ```
 
 
-<br></br>
+
 
 ## Tech Stack
 
@@ -54,7 +54,6 @@ const senthilnathan = {
 </div>
 
 
-<br>
 
 ## Connect With Me
 
