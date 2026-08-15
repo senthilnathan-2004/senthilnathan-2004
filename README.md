@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi there, I'm Senthilnathan R 👋
+# Hi there, I'm Senthilnathan R
 
 ### Full Stack MERN Developer | Building Scalable Web Applications
 
@@ -12,7 +12,7 @@
   <img src="https://img.shields.io/badge/-000000?style=for-the-badge" width="1000" height="3">
 </p>
 
-## 🧑‍💻 About Me
+## About Me
 
 ```
 const senthilnathan = {
@@ -30,7 +30,7 @@ const senthilnathan = {
   <img src="https://img.shields.io/badge/-000000?style=for-the-badge" width="1000" height="3">
 </p>
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <div align="left">
 
@@ -50,50 +50,10 @@ const senthilnathan = {
   <img src="https://img.shields.io/badge/-000000?style=for-the-badge" width="1000" height="3">
 </p>
 
-## 🚀 Featured Projects
 
-<div align="center">
+## Technical Concepts
 
-<table width="700">
-<tr>
-<td width="50%" valign="top">
-
-### 🧩 [ComponentHub](https://github.com/senthilnathan-2004/ComponentHub)
-**Reusable UI Component Platform — MERN Stack**
-
-- Dynamic rendering engine for live component previews & real-time style customization
-- Automated code export for production-ready responsive snippets
-- Reusable UI components built with React & Tailwind CSS
-- Optimized frontend rendering for faster component loading
-
-`React` `Tailwind CSS` `Component Architecture`
-
-</td>
-<td width="50%" valign="top">
-
-### 🥩 [MERN Meatshop](https://github.com/senthilnathan-2004/meatshop)
-**Online Application — MERN Stack**
-
-- Secure JWT authentication with password hashing & protected routes
-- Scalable RESTful APIs for products, sessions & order handling
-- Interactive React frontend with category filtering & search
-- Persistent shopping cart using Local Storage
-
-`Node.js` `Express` `MongoDB` `JWT`
-
-</td>
-</tr>
-</table>
-
-</div>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/-000000?style=for-the-badge" width="1000" height="3">
-</p>
-
-## 📚 Technical Concepts
-
-<div align="center">
+<div align="left">
 
 `RESTful API Design` `RBAC` `JWT Auth` `MVC Architecture` `2FA` `Socket.io` `API Integration` `Web Security` `Performance Optimization`
 
@@ -103,16 +63,7 @@ const senthilnathan = {
   <img src="https://img.shields.io/badge/-000000?style=for-the-badge" width="1000" height="3">
 </p>
 
-## 🏆 Certifications
-
-- 🎓 **MongoDB for Developers** — MongoDB University
-- 💡 **Idea Presentation** — College Innovation Event
-
-<p align="center">
-  <img src="https://img.shields.io/badge/-000000?style=for-the-badge" width="1000" height="3">
-</p>
-
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -127,7 +78,7 @@ const senthilnathan = {
   <img src="https://img.shields.io/badge/-000000?style=for-the-badge" width="1000" height="3">
 </p>
 
-## 📫 Connect With Me
+## Connect With Me
 
 <div align="center">
 
@@ -141,7 +92,3 @@ const senthilnathan = {
 <p align="center">
   <img src="https://img.shields.io/badge/-000000?style=for-the-badge" width="1000" height="3">
 </p>
-
-<div align="center">
-<i>⚡ "Code is not just logic — it's craft." ⚡</i>
-</div>
