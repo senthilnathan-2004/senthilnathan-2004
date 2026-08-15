@@ -33,11 +33,13 @@ const senthilnathan = {
 ## 🛠️ Tech Stack
 
 <div align="center">
+
 <table width="100%">
 <tr>
-<th align="left" width="200">Category</th>
+<th align="left" width="180">Category</th>
 <th align="left">Technologies</th>
 </tr>
+
 <tr>
 <td><b>Languages</b></td>
 <td>
@@ -49,6 +51,7 @@ const senthilnathan = {
 <img src="https://img.shields.io/badge/CSS3-000000?style=flat-square&logo=css3&logoColor=white" />
 </td>
 </tr>
+
 <tr>
 <td><b>Frontend</b></td>
 <td>
@@ -57,6 +60,7 @@ const senthilnathan = {
 <img src="https://img.shields.io/badge/Tailwind_CSS-000000?style=flat-square&logo=tailwindcss&logoColor=white" />
 </td>
 </tr>
+
 <tr>
 <td><b>Backend</b></td>
 <td>
@@ -65,6 +69,7 @@ const senthilnathan = {
 <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" />
 </td>
 </tr>
+
 <tr>
 <td><b>Database</b></td>
 <td>
@@ -72,6 +77,7 @@ const senthilnathan = {
 <img src="https://img.shields.io/badge/MySQL-000000?style=flat-square&logo=mysql&logoColor=white" />
 </td>
 </tr>
+
 <tr>
 <td><b>Tools & Practices</b></td>
 <td>
@@ -82,7 +88,9 @@ const senthilnathan = {
 <img src="https://img.shields.io/badge/VS_Code-000000?style=flat-square&logo=visualstudiocode&logoColor=white" />
 </td>
 </tr>
+
 </table>
+
 </div>
 
 <p align="center">
