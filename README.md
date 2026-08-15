@@ -33,10 +33,9 @@ const senthilnathan = {
 ## 🛠️ Tech Stack
 
 <div align="center">
-
-<table width="700">
+<table width="100%">
 <tr>
-<th align="left" width="150">Category</th>
+<th align="left" width="200">Category</th>
 <th align="left">Technologies</th>
 </tr>
 <tr>
@@ -84,7 +83,6 @@ const senthilnathan = {
 </td>
 </tr>
 </table>
-
 </div>
 
 <p align="center">
