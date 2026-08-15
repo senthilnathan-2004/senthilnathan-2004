@@ -8,7 +8,7 @@
 
 </div>
 
-<h6></h6>
+<br></br>
 
 ## About Me
 
@@ -23,6 +23,7 @@ const senthilnathan = {
     currentlyBuilding: "Scalable RESTful APIs & Component-Based Architectures"
 };
 ```
+
 
 <h6></h6>
 
