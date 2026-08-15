@@ -24,7 +24,7 @@ const senthilnathan = {
 };
 ```
 
-<br></br>
+<h6></h6>
 ## Tech Stack
 
 <div align="left">
